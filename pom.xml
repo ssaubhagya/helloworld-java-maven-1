@@ -37,13 +37,13 @@
 	<repository>
 		<id>tata</id>
 		<name>Internal Releases</name>
-		<url>http://54.84.82.186:8081/nexus/content/repositories/release/</url>
+		<url>http://35.174.13.65:8081/repository/sai-test/</url>
 	</repository>
  
 	<snapshotRepository>
 		<id>tata</id>
 		<name>Internal Releases</name>
-		<url>http://54.84.82.186:8081/nexus/content/repositories/snapshot/</url>
+		<url>http://35.174.13.65:8081/repository/sai-test/</url>
 	</snapshotRepository>
 
 </distributionManagement>
